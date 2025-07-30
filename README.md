@@ -58,7 +58,7 @@ Este proyecto fue construido utilizando las siguientes tecnologías:
 
 ## 📄 Licencia
 
-Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo `LICENSE` (si planeas añadir uno).
+Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo `LICENSE`.
 
 ---
 
@@ -68,6 +68,6 @@ Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de mi 
 
 ---
 
-**Etiquetas sugeridas para tu repositorio de GitHub:**
+**Etiquetas:**
 
 `javascript`, `html`, `css`, `game`, `web-game`, `learning-project`, `beginner-friendly`, `adivinar-numero`, `reto`, `frontend`, `web-development`
